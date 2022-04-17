@@ -5,7 +5,6 @@ public class GradeOutput {
         g2 = new Grade();
         g1.input_grade(90, 80);
         g2.input_grade(80, 80);
-
         g1.out_grade();
         g2.out_grade();
     }
