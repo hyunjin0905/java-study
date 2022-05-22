@@ -24,7 +24,5 @@ public class Electronics {
     public void turnOff() {
         nVoltage = 0;
     }
-    public int getVoltage () {
-        return nVoltage;
-    }
+
 }
