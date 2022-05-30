@@ -4,6 +4,5 @@ public class MovieApplication {
         one.title = "주식과함께사라지다";
         one.genre = "비극";
         one.rating = -2;
-        one.playIt();
     }
 }
